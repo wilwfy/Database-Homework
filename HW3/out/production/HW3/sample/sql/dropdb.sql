@@ -1,0 +1,6 @@
+DROP TABLE Movietag
+DROP TABLE Tags
+DROP TABLE Locations
+DROP TABLE Genres
+DROP TABLE Mcountry
+DROP TABLE Movies
